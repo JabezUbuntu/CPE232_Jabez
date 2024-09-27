@@ -1,3 +1,2 @@
-[server]
-server1 ansible_host=192.168.56.3 ansible_user=vboxuser
-localhost ansible_host=192.168.56.5 ansible_user=jabez
+192.168.56.3 apache_package=apache2 php_package=libapache2-mod-php
+192.168.56.5 apache_package=httpd php_package=php

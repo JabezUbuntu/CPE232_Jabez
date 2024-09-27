@@ -1,4 +1,4 @@
-[myvirtualmachines]
-192.168.56.2
-192.168.56.3
-192.168.56.4
+[default]
+inventory = inventory
+remote_user = vmboxuser
+host_key_checking = True
